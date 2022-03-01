@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banco Comercio</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Inicio</string>
+    <string name="detail_fragment_label">Detalle</string>
+
+</resources>
